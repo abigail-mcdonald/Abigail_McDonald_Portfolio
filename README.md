@@ -2,20 +2,20 @@
 
 ## Visual and Exploratory Analysis Projects
 
-### Bike Station Analysis
+Bike Station Analysis
 
-### Complaint Analysis
+Complaint Analysis
 
-### Enron Email Corpus Analysis
+Enron Email Corpus Analysis
 
 Restaurant Tip Analysis
 
 Airline Partner Analysis
 
-Anomaly Detection - Fraud
-
 
 ## Predictive Analytics Projects
+
+Anomaly Detection - Fraud
 
 Bath Soap Consumer Segmentation
 

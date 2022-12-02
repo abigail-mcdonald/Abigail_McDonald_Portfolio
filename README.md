@@ -28,16 +28,6 @@ Political Microtargeting
 
 ## Natural Language Processing Projects
 
-Movie Recommender System
-
-Text Translator
-
-Text Classification
-
-Text Classification with Transformers
-
-Semantic Search Engine
-
 Predicting Recommendations
 
 Predicting Recommendations using Transformers
